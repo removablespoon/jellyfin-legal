@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<style>
+body{
+    max-width:800px;
+    margin:40px auto;
+    font-family:Arial,sans-serif;
+    line-height:1.6;
+    padding:20px;
+}
+h1,h2{
+    color:#333;
+}
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p>Last Updated: July 2026</p>
+
+<p>
+This website describes the privacy practices for a private media server
+operated for invited friends and family.
+</p>
+
+<h2>Information We Collect</h2>
+
+<ul>
+<li>Name</li>
+<li>Email address</li>
+<li>Phone number (only if you choose to receive SMS notifications)</li>
+<li>Media requests submitted through Jellyseerr</li>
+</ul>
+
+<h2>How We Use Information</h2>
+
+<p>Information is used only to:</p>
+
+<ul>
+<li>Provide access to the media server.</li>
+<li>Process media requests.</li>
+<li>Notify users when requested media becomes available.</li>
+<li>Respond to support requests.</li>
+</ul>
+
+<h2>SMS Messaging</h2>
+
+<p>
+SMS notifications are only sent to users who voluntarily provide their
+phone number and request text notifications.
+</p>
+
+<p>
+Message frequency varies based on your requests.
+Message and data rates may apply.
+</p>
+
+<h2>Sharing of Information</h2>
+
+<p>
+We do not sell, rent, or share your personal information with third
+parties.
+</p>
+
+<p>
+<strong>
+Mobile opt-in data and consent will never be shared with third parties
+or affiliates for marketing or promotional purposes.
+</strong>
+</p>
+
+<h2>Data Security</h2>
+
+<p>
+Reasonable measures are used to protect account information and personal
+data.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+Questions regarding this Privacy Policy may be directed to the server
+administrator.
+</p>
+
+</body>
+</html>
